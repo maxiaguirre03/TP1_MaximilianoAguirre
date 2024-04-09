@@ -12,8 +12,8 @@ public class Main {
 		
 		System.out.println("el nombre del pais es: "+nombreP);
 		System.out.println("la edad es: "+Edad);
-		System.out.println("altura es: "+altura);
-		System.out.println("el precio es: "+precio);
+		System.out.println("La altura del edificio es: "+altura);
+		System.out.println("el precio del producto es: "+precio);
 		System.out.println("su numero es: "+numeroCel);
 		System.out.println("el calculo del coseno es: "+calcCos);
 
